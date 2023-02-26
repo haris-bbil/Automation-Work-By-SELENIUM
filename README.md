@@ -3,8 +3,8 @@
 
 #Site Information:
 Moving Manager is a management system which serve its customer to shift their materials from place to another all over USA.
-Live Server: Moving Manager Login (movemanager.us)
-Site Used in Automation: Moving Manager Login (movemanager.us)
+Live Server: https://movemanager.us/
+Site Used in Automation: https://dev.movemanager.us/
 
 # Tools Used: 
 •	Intellij IDEA
