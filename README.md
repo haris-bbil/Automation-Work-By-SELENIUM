@@ -1,5 +1,5 @@
 
-# Automate Key Features of Moving Manager Project:
+# Automate Core Features of Moving Manager Project:
 
 # Site Information:
 
